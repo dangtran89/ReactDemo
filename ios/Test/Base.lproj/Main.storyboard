@@ -26,12 +26,25 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kpe-ZR-hDt">
+                                <rect key="frame" x="156" y="79" width="46" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="7li-vr-lAI"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AJJ-4f-aol"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ckf-Zw-LfQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="RGb-A9-YbJ"/>
                             <constraint firstItem="ckf-Zw-LfQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="UPB-B7-pmh"/>
+                            <constraint firstItem="Kpe-ZR-hDt" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="156" id="Xnh-No-gaa"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="ckf-Zw-LfQ" secondAttribute="trailing" constant="15" id="e8L-NU-9bV"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Kpe-ZR-hDt" secondAttribute="trailing" constant="173" id="fdz-IW-5kk"/>
+                            <constraint firstItem="Kpe-ZR-hDt" firstAttribute="top" secondItem="ckf-Zw-LfQ" secondAttribute="bottom" constant="29" id="ghw-th-wjh"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
