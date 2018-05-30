@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "0b51f2faca17655ac62c2d2e0e7104fb"
+build_time: [1527650284, 322818000]
+inputs:
+  "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/Test/ViewController.swift": [1527648954, 0]
+  "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/Test/AppDelegate.swift": [1527235212, 0]

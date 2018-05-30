@@ -1,0 +1,592 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "4Test14ViewControllerC"
+provides-member:
+- ["4Test14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "highScoreButtonTapped"
+- "viewDidLoad"
+depends-top-level:
+- !private "AnyObject"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Dictionary"
+- !private "NSDictionary"
+- !private "NSLog"
+- !private "NSObject"
+- !private "RCTRootView"
+- !private "StringLiteralType"
+- "UIButton"
+- "UIViewController"
+- !private "URL"
+- "ViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "NSLog"]
+- !private ["s7CVarArgP", "RCTRootView"]
+- !private ["s7CVarArgP", "UIViewController"]
+- !private ["s7CVarArgP", "URL"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "RCTRootView"]
+- !private ["s28CustomDebugStringConvertibleP", "UIViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSLog"]
+- !private ["s23CustomStringConvertibleP", "RCTRootView"]
+- !private ["s23CustomStringConvertibleP", "UIViewController"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSLog"]
+- !private ["s9EquatableP", "RCTRootView"]
+- !private ["s9EquatableP", "UIViewController"]
+- !private ["s9EquatableP", "URL"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "present"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSLog"]
+- !private ["s8HashableP", "RCTRootView"]
+- !private ["s8HashableP", "UIViewController"]
+- !private ["s8HashableP", "URL"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "present"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "NSLog"]
+- !private ["So8NSCodingP", "RCTRootView"]
+- !private ["So8NSCodingP", "UIViewController"]
+- !private ["So8NSCodingP", "URL"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLog"]
+- !private ["So26NSExtensionRequestHandlingP", "RCTRootView"]
+- !private ["So26NSExtensionRequestHandlingP", "UIViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "URL"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "AnyObject"]
+- !private ["So8NSObjectC", "NSDictionary"]
+- !private ["So8NSObjectC", "NSLog"]
+- !private ["So8NSObjectC", "NSObject"]
+- !private ["So8NSObjectC", "RCTRootView"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UIViewController"]
+- !private ["So8NSObjectC", "URL"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "highScoreButtonTapped"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "NSLog"]
+- !private ["So16NSObjectProtocolP", "RCTRootView"]
+- !private ["So16NSObjectProtocolP", "UIViewController"]
+- !private ["So16NSObjectProtocolP", "URL"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "present"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["So12RCTComponentP", "init"]
+- !private ["So11RCTRootViewC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "NSLog"]
+- !private ["So21UIAppearanceContainerP", "RCTRootView"]
+- !private ["So21UIAppearanceContainerP", "UIViewController"]
+- !private ["So21UIAppearanceContainerP", "URL"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "NSLog"]
+- !private ["So18UIContentContainerP", "RCTRootView"]
+- !private ["So18UIContentContainerP", "UIViewController"]
+- !private ["So18UIContentContainerP", "URL"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "NSLog"]
+- !private ["So18UIFocusEnvironmentP", "RCTRootView"]
+- !private ["So18UIFocusEnvironmentP", "UIViewController"]
+- !private ["So18UIFocusEnvironmentP", "URL"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLog"]
+- !private ["So30UIPasteConfigurationSupportingP", "RCTRootView"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "URL"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "AnyObject"]
+- !private ["So11UIResponderC", "NSDictionary"]
+- !private ["So11UIResponderC", "NSLog"]
+- !private ["So11UIResponderC", "NSObject"]
+- !private ["So11UIResponderC", "RCTRootView"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UIViewController"]
+- !private ["So11UIResponderC", "URL"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "highScoreButtonTapped"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLog"]
+- !private ["So30UIResponderStandardEditActionsP", "RCTRootView"]
+- !private ["So30UIResponderStandardEditActionsP", "UIViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "URL"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "NSLog"]
+- !private ["So16UIStateRestoringP", "RCTRootView"]
+- !private ["So16UIStateRestoringP", "UIViewController"]
+- !private ["So16UIStateRestoringP", "URL"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "NSLog"]
+- !private ["So18UITraitEnvironmentP", "RCTRootView"]
+- !private ["So18UITraitEnvironmentP", "UIViewController"]
+- !private ["So18UITraitEnvironmentP", "URL"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "init"]
+- !private ["So16UIViewControllerC", "AnyObject"]
+- !private ["So16UIViewControllerC", "NSDictionary"]
+- !private ["So16UIViewControllerC", "NSLog"]
+- !private ["So16UIViewControllerC", "NSObject"]
+- !private ["So16UIViewControllerC", "RCTRootView"]
+- ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UIViewController"]
+- !private ["So16UIViewControllerC", "URL"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "highScoreButtonTapped"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["10Foundation3URLV", "init"]
+- !private ["4Test14ViewControllerC", "AnyObject"]
+- !private ["4Test14ViewControllerC", "NSDictionary"]
+- !private ["4Test14ViewControllerC", "NSLog"]
+- !private ["4Test14ViewControllerC", "NSObject"]
+- !private ["4Test14ViewControllerC", "RCTRootView"]
+- ["4Test14ViewControllerC", "UIButton"]
+- !private ["4Test14ViewControllerC", "UIViewController"]
+- !private ["4Test14ViewControllerC", "URL"]
+- ["4Test14ViewControllerC", "deinit"]
+- ["4Test14ViewControllerC", "didReceiveMemoryWarning"]
+- ["4Test14ViewControllerC", "highScoreButtonTapped"]
+- ["4Test14ViewControllerC", "init"]
+- !private ["4Test14ViewControllerC", "present"]
+- ["4Test14ViewControllerC", "viewDidLoad"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RCTRootView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So12RCTComponentP"
+- !private "So11RCTRootViewC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "10Foundation3URLV"
+- "4Test14ViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/Yoga.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/yoga-umbrella.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/React-umbrella.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModuleData.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSafeAreaViewLocalData.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTComponentData.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUITextField.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTReloadCommand.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBridgeMethod.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModuleMethod.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTClipboard.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurface.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFabricSurface.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTImageSource.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSourceCode.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceSizeMeasureMode.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAsyncLocalStorage.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceStage.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBridge.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTProfile.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBridgeModule.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFileReaderModule.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTWebSocketModule.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBorderStyle.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTJSStackFrame.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextDecorationLineType.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAnimationType.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFrameUpdate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBridgeDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTURLRequestDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBackedTextInputDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRootViewDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceRootShadowViewDelegate.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAppState.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBridge+Private.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/UIView+Private.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNetworking.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/NSTextStorage+FontScaling.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTJSCErrorHandling.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTiming.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInvalidating.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBorderDrawing.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTLog.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSwitch.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFPSGraph.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDisplayLink.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/fishhook.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMultipartDataTask.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNetworkTask.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceView+Internal.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTShadowView+Internal.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRootViewInternal.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTI18nUtil.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollableProtocol.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAutoInsetsProtocol.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBackedTextInputViewProtocol.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSegmentedControl.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRefreshControl.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTabBarItem.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNavItem.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTConvert+Transform.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPlatform.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTVersion.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTConvert+CoreLocation.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTLayoutAnimation.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextSelection.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPackagerConnection.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInspectorPackagerConnection.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDeviceInfo.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTErrorInfo.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNetInfo.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTLayoutAnimationGroup.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTabBar.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMultipartStreamReader.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTJavaScriptLoader.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSlider.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBundleURLProvider.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUIManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBlobManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSwitchManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModalManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSegmentedControlManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRefreshControlManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTabBarItemManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNavItemManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTI18nManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTabBarManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTStatusBarManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSliderManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPickerManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDatePickerManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNavigatorManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTExceptionsManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAlertManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSafeAreaViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTWebViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMaskedViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTActivityIndicatorViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTProgressViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollContentViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModalHostViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSinglelineTextInputViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMultilineTextInputViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBaseTextInputViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBaseTextViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTVirtualTextViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRawTextViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInputAccessoryViewManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAccessibilityManager.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPerformanceLogger.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTEventDispatcher.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPicker.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDatePicker.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTouchHandler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTURLRequestHandler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTHTTPRequestHandler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDataRequestHandler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFileRequestHandler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTJSCSamplingProfiler.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRedBoxExtraDataViewController.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTWrapperViewController.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModalHostViewController.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInspectorDevServerHelper.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTManagedPointer.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBackedTextInputDelegateAdapter.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTEventEmitter.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTKeyboardObserver.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTErrorCustomizer.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNavigator.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUIManagerObserverCoordinator.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInspector.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTWebSocketExecutor.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTJavaScriptExecutor.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTKeyCommands.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDefines.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextAttributes.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDevSettings.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUIUtils.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUtils.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUIManagerUtils.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTParserUtils.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/YGEnums.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/YGMacros.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMacros.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPointerEvents.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/UIView+React.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSRWebSocket.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTReconnectingWebSocket.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTPackagerClient.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTComponent.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInputAccessoryViewContent.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTouchEvent.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFont.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTAssert.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTConvert.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTCxxConvert.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTShadowView+Layout.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTLayout.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTConvert+Text.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDevMenu.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSafeAreaView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTWebView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMaskedView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTDevLoadingView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceHostingView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFabricSurfaceHostingView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTActivityIndicatorView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollContentView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRootContentView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRootView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceRootView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceHostingProxyRootView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTFabricSurfaceHostingProxyRootView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTModalHostView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSinglelineTextInputView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTMultilineTextInputView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBaseTextInputView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTUITextView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSafeAreaShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTScrollContentShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRootShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTSurfaceRootShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBaseTextInputShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTTextShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTBaseTextShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTVirtualTextShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRawTextShadowView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTInputAccessoryView.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTRedBox.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/RCTNullability.h"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Modules/module.modulemap"
+- "/Users/dangtran/Documents/Working/react_native_test/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "338b19156a50dda1f9f35dc72e429aab"

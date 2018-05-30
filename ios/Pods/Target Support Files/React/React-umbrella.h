@@ -165,6 +165,7 @@
 #import "RCTInspectorPackagerConnection.h"
 #import "RCTBlobManager.h"
 #import "RCTFileReaderModule.h"
+#import "RCTLinkingManager.h"
 #import "RCTDataRequestHandler.h"
 #import "RCTFileRequestHandler.h"
 #import "RCTHTTPRequestHandler.h"

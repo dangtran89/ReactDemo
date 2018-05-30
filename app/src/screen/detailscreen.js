@@ -1,6 +1,5 @@
 import React from 'react';
 import { StyleSheet, Button, View, Text } from 'react-native';
-// import { Navigator } from 'react-native-navigation';
 
 class DetailsScreen extends React.Component {
   render() {
@@ -15,7 +14,7 @@ class DetailsScreen extends React.Component {
 const styles = StyleSheet.create({
   text: {
     margin: 50,
-    color: 'Red',
+    color: 'blue',
     fontWeight: 'bold',
     fontSize: 30,
   },
