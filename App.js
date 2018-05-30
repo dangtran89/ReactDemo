@@ -9,4 +9,5 @@ export default class App extends React.Component {
 
 AppRegistry.registerComponent('DemoProject', () => App);
 YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated', 'Module RCTImageLoader']);
+YellowBox.ignoreWarnings(['Class RCTCxxModule']);
 
